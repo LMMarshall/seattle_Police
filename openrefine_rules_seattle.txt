@@ -1,0 +1,2890 @@
+[
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--DIRECTED PATROL ACTIVITY",
+          "DIRECTED PATROL ACTIVITY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DIRECTED PATROL ACTIVITY"
+      },
+      {
+        "from": [
+          "--VICE - PORNOGRAPHY",
+          "VICE - PORNOGRAPHY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "VICE - PORNOGRAPHY"
+      },
+      {
+        "from": [
+          "--THEFT - SHOPLIFT",
+          "SHOPLIFT - THEFT"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "THEFT - SHOPLIFT"
+      },
+      {
+        "from": [
+          "--PROPERTY - FOUND PROPERTY",
+          "PROPERTY - FOUND"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "PROPERTY - FOUND PROPERTY"
+      },
+      {
+        "from": [
+          "--VICE - PROSTITUTION",
+          "VICE - PROSTITUTION"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "VICE - PROSTITUTION"
+      },
+      {
+        "from": [
+          "--PERSON - FOUND PERSON",
+          "FOUND - PERSON"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "PERSON - FOUND PERSON"
+      },
+      {
+        "from": [
+          "--NARCOTICS - NARCOTICS WARRANT SERVICE",
+          "NARCOTICS WARRANT SERVICE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NARCOTICS - NARCOTICS WARRANT SERVICE"
+      },
+      {
+        "from": [
+          "-OFF DUTY EMPLOYMENT",
+          "OFF DUTY EMPLOYMENT"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "OFF DUTY EMPLOYMENT"
+      },
+      {
+        "from": [
+          "--TRAFFIC - MOVING VIOLATION",
+          "TRAFFIC - MOVING VIOLATION"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "TRAFFIC - MOVING VIOLATION"
+      },
+      {
+        "from": [
+          "DOWN - CHECK FOR PERSON DOWN",
+          "DOWN - CHECK FOR DOWN PERSON"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DOWN - CHECK FOR PERSON DOWN"
+      },
+      {
+        "from": [
+          "--TRAFFIC - ASSIST MOTORIST",
+          "TRAFFIC - ASSIST MOTORIST"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "TRAFFIC - ASSIST MOTORIST"
+      },
+      {
+        "from": [
+          "--DV - SERVICE OF COURT ORDER",
+          "ORDER  - SERVICE OF DV COURT ORDER"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DV - SERVICE OF COURT ORDER"
+      },
+      {
+        "from": [
+          "--HARBOR - WATER EMERGENCIES",
+          "HARBOR - WATER EMERGENCIES"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "HARBOR - WATER EMERGENCIES"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--ANIMAL COMPLAINT - INJURED,DEAD,DANGEROUS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ANIMAL COMPLAINT"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--ANIMAL COMPLAINT - NOISE,STRAY,BITE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ANIMAL COMPLAINT"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--ARSON, BOMBS, EXPLO - ARSON"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ARSON, BOMBS, EXPLO"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--ARSON,BOMBS,EXPLO - BOMBS, EXPLO,LARGE FIREWORKS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ARSON,BOMBS,EXPLO"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--ARSON, BOMBS, EXPLO - RECKLESS BURNING"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ARSON, BOMBS, EXPLO"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ARSON, BOMBS, EXPLO",
+          "ARSON,BOMBS,EXPLO"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ARSON, BOMBS, EXPLO"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--ASSIST OTHER AGENCY - CITY AGENCY",
+          "--ASSIST OTHER AGENCY - STATE AGENCY",
+          "--ASSIST OTHER AGENCY - COUNTY AGENCY",
+          "--ASSIST OTHER AGENCY - FEDERAL AGENCY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ASSIST OTHER AGENCY"
+      },
+      {
+        "from": [
+          "PROPERTY - FOUND PROPERTY",
+          "--PROPERTY - FOUND PROPERTY (NON-SPD SIN)",
+          "PROPERTY - FOUND GUN, SHELLCASINGS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "FOUND PROPERTY"
+      },
+      {
+        "from": [
+          "LIQUOR VIOLATIONS - ADULT",
+          "LIQUOR VIOLATIONS - MINOR",
+          "LIQUOR VIOLATIONS - BUSINESS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "LIQUOR VIOLATIONS"
+      },
+      {
+        "from": [
+          "--SUSPICIOUS CIRCUM. - SUSPICIOUS PERSON",
+          "--SUSPICIOUS CIRCUM. - SUSPICIOUS VEHICLE",
+          "--SUSPICIOUS CIRCUM. - BUILDING (OPEN DOOR, ETC)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SUSPICIOUS CIRCUM"
+      },
+      {
+        "from": [
+          "--INTOX & LIQ VIOLS - ADULTS (VIOLATIONS)",
+          "--INTOX & LIQ VIOLS - INTOXICATED PERSON",
+          "--INTOX & LIQ VIOLS - MINORS (VIOLATIONS)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "LIQUOR VIOLATIONS"
+      },
+      {
+        "from": [
+          "--DV -VULNERABLE ADULT, FINANCIAL EXPLOITATION",
+          "--DV -VULNERABLE ADULT, NEGLECT",
+          "--DV -VULNERABLE ADULT, PHYSICAL ABUSE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DOMESTIC VIOLENCE"
+      },
+      {
+        "from": [
+          "--AUTOMOBILES - AUTO THEFT",
+          "--AUTOMOBILES - AUTO THEFT & RECOVERY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "THEFT"
+      },
+      {
+        "from": [
+          "--PROWLER - TRESPASS",
+          "--PROWLER - TRESPASS, PARKS EXCLUSION"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "TRESPASS"
+      },
+      {
+        "from": [
+          "--HARBOR - VESSEL, THEFT",
+          "--HARBOR - VESSEL, THEFT AND RECOVERY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "THEFT"
+      },
+      {
+        "from": [
+          "--RAPE - KNOWN SUSPECT (ACQUAINTANCE)",
+          "--RAPE - UNKNOWN SUSPECT (STRANGER)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "RAPE"
+      },
+      {
+        "from": [
+          "ASSIST OTHER AGENCY - ROUTINE SERVICE",
+          "ASSIST OTHER AGENCY - EMERGENCY SERVICE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ASSIST OTHER AGENCY"
+      },
+      {
+        "from": [
+          "--BURGLARY - RESIDENTIAL, UNOCCUPIED",
+          "--BURGLARY - RESIDENTIAL OCCUPIED"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BURGLARY"
+      },
+      {
+        "from": [
+          "--ALARM-RESIDENTIAL BURG",
+          "--ALARM-RESIDENTIAL PANIC OR DURESS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ALARM"
+      },
+      {
+        "from": [
+          "NARCOTICS - VIOLATIONS (LOITER, USE, SELL, NARS)",
+          "NARCOTICS - VIOLATION OF SODA ORDER"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NARCOTICS"
+      },
+      {
+        "from": [
+          "--NARCOTICS - FOUND , RECOVERED NARCOTICS",
+          "NARCOTICS - FOUND"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NARCOTICS"
+      },
+      {
+        "from": [
+          "--DV - DOMESTIC VIOL/ASLT (ARREST MANDATORY)",
+          "--DV - DOMESTIC VIOLENCE (ARREST DISCRETIONARY)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DOMESTIC VIOLENCE"
+      },
+      {
+        "from": [
+          "ASSIST SPD - ROUTINE SERVICE",
+          "ASSIST SPD - URGENT SERVICE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ASSIST OTHER AGENCY"
+      },
+      {
+        "from": [
+          "--SEX OFFENSES (NON-RAPE) - LEWD CONDUCT",
+          "--SEX OFFENSES (NON-RAPE) - FAILURE TO REGISTER"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SEX OFFENSE"
+      },
+      {
+        "from": [
+          "--FRAUD - FORGERY, BAD CHECKS",
+          "FRAUD - FORGERY,BUNCO, SCAMS, ID THEFT, ETC"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "FRAUD"
+      },
+      {
+        "from": [
+          "--DISTURBANCE - NOISE",
+          "--DISTURBANCE - NOISE RESIDENTIAL"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DISTURBANCE"
+      },
+      {
+        "from": [
+          "--PROPERTY DEST (DAMG)",
+          "--PROPERTY DEST (DAMG) - GRAFFITI (INCLUDES GANG)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "PROPERTY DAMAGE"
+      },
+      {
+        "from": [
+          "SECONDARY - PROPERTY DAMAGE/DESTRUCTION",
+          "SECONDARY - PROPERTY, LOST OR MISSING"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "PROPERTY DAMAGE"
+      },
+      {
+        "from": [
+          "--WARRANT SERVICES - FELONY",
+          "--WARRANT SERVICES - MISDEMEANOR"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "WARRANT"
+      },
+      {
+        "from": [
+          "--NARCOTICS - MARIJUANA PUBLIC USE(NOT DISPENSARY)",
+          "--NARCOTICS - MARIJUANA RELATED"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NARCOTICS"
+      },
+      {
+        "from": [
+          "--NARCOTICS - NARS REPORT",
+          "NARCOTICS - NARCOTICS WARRANT SERVICE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NARCOTICS"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "PROPERTY DAMAGE",
+          "PROPERTY - DAMAGE",
+          "PROPERTY - DAMAGE (GUN RELATED)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "PROPERTY DAMAGE"
+      },
+      {
+        "from": [
+          "--MISC MISD AND VIOLS - RECKLESS ENDANGERMENT",
+          "--MISC MISD AND VIOLS - PARKS EXCLUSION"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MISDEMEANOR"
+      },
+      {
+        "from": [
+          "--TRAFFIC - BLOCKING TRAFFIC",
+          "TRAFFIC - BLOCKING ROADWAY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "TRAFFIC"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--CASUALTY,NON-TRAF,NON-CRIM - NON-DRUG RELATED",
+          "--CASUALTY NON-TRAF NON-CRIM - DRUG RELATED (OD)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CASUALTY"
+      },
+      {
+        "from": [
+          "--CRISIS COMPLAINT - GENERAL",
+          "--CRISIS COMPLAINT - PICK-UP OR TRANSPORT"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CRISIS"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "WARRANT - SEARCH. EXECUTED, SECURED",
+          "WARRANT - SEARCH. CAUTION (EXCL NARCOTICS)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "WARRANT"
+      },
+      {
+        "from": [
+          "ALARM - RESIDENTIAL - BURGLARY, SILENT/AUDIBLE",
+          "ALARM - RESIDENTIAL - SILENT/AUD PANIC/DURESS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ALARM"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "-ASSIGNED DUTY - DETAIL BY SUPERVISOR",
+          "-ASSIGNED DUTY - COMMUNITY,SCHOOL,SPECIAL EVENT",
+          "-ASSIGNED DUTY - IN-SERVICE TRAINING",
+          "-ASSIGNED DUTY - STATION DUTY (CLERK,MAIL,ETC)",
+          "-ASSIGNED DUTY - REPORTS",
+          "-ASSIGNED DUTY - TRANSPORT EVIDENCE,EQUIPMENT",
+          "-ASSIGNED DUTY - MEET W/ SUPERVISOR (OUT OF SVC)",
+          "-ASSIGNED DUTY - FOOT BEAT (FROM ASSIGNED CAR)",
+          "-ASSIGNED DUTY - CENTURYLINK STADIUM",
+          "-ASSIGNED DUTY - COURT",
+          "-ASSIGNED DUTY - HOSPITAL GUARD",
+          "-ASSIGNED DUTY - OTHER ESCORT",
+          "-ASSIGNED DUTY - SEATTLE CENTER EVENT"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ASSIGNED DUTY"
+      },
+      {
+        "from": [
+          "--DISTURBANCE - OTHER",
+          "DISTURBANCE",
+          "--DISTURBANCE - FIGHT",
+          "DISTURBANCE, MISCELLANEOUS/OTHER",
+          "--DISTURBANCE - JUVENILE",
+          "--DISTURBANCE - GANG RELATED"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DISTURBANCE"
+      },
+      {
+        "from": [
+          "--PREMISE CHECKS - CRIME PREVENTION",
+          "--PREMISE CHECKS - BUSINESS CHECK",
+          "--PREMISE CHECKS - REQUEST TO WATCH",
+          "PREMISE CHECK, OFFICER INITIATED ONVIEW ONLY",
+          "--PREMISE CHECKS - HOMELESS ENCAMPMENT",
+          "--PREMISE CHECKS - LICENSE INSPECTIONS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "PREMISES CHECK"
+      },
+      {
+        "from": [
+          "UNKNOWN - COMPLAINT OF UNKNOWN NATURE",
+          "UNKNOWN - ANI/ALI - LANDLINE (INCLUDES OPEN LINE)",
+          "UNKNOWN - ANI/ALI - WRLS PHNS (INCL OPEN LINE)",
+          "UNKNOWN - ANI/ALI - PAY PHNS (INCL OPEN LINE)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "COMPLAINT"
+      },
+      {
+        "from": [
+          "--ALARM-COMM (INC BANK, ATM, SCHOOLS, BSN)",
+          "--ALARM-COMM ROBB (BANK, PANIC, DURESS)",
+          "ALARM - COMM, SILENT/AUD BURG (INCL BANKS)",
+          "ALARM - COMM, HOLD-UP/PANIC (EXCEPT BANKS)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ALARM"
+      },
+      {
+        "from": [
+          "--HELP THE OFFICER -ASSIST THE OFFICER (NON EMERG)",
+          "HELP THE OFFICER",
+          "--HELP THE OFFICER - HELP THE OFFICER (EMERGENCY)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "HELP OFFICER "
+      },
+      {
+        "from": [
+          "--TRAFFIC - BICYCLE VIOLATION",
+          "TRAFFIC - BO SIGNALS AND DOWN SIGNS",
+          "TRAFFIC PURSUIT - OFFICER INITIATED ONVIEW"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "TRAFFIC"
+      },
+      {
+        "from": [
+          "JUVENILE - RUNAWAY",
+          "JUVENILE - RUNAWAY PICKUP"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CRISIS"
+      },
+      {
+        "from": [
+          "AUTO THEFT - VEH THEFT OR THEFT & RECOVERY",
+          "AUTO THEFT-IP/JO - VEHICLE, PLATES, TABS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "THEFT"
+      },
+      {
+        "from": [
+          "EXPLOSION - IP/JO",
+          "EXPLOSION WITH SIGNIFICANT DELAY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ARSON BOMB"
+      },
+      {
+        "from": [
+          "BOMB - THREATS",
+          "BOMB THREATS - IP/JO"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ARSON BOMB"
+      },
+      {
+        "from": [
+          "SEX OFFENSE",
+          "--SEX OFFENSES (RAPE) - MOLESTING"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "SEX OFFENSE"
+      },
+      {
+        "from": [
+          "--ALARM-OTHER (VARDA,PDT,FIRE,LOCAL,METRO,ETC))",
+          "ALARM - DURESS/PANIC,BUS/TAXI/CAR/PRSN - NOT DV"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ALARM"
+      },
+      {
+        "from": [
+          "TRAFFIC - MOVING VIOLATION",
+          "--TRAFFIC - MV COLLISION INVESTIGATION"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "TRAFFIC"
+      },
+      {
+        "from": [
+          "ASLT - IP/JO - WITH OR W/O WPNS (NO SHOOTINGS)",
+          "ASLT - IP/JO - PERSON SHOT OR SHOT AT"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ASSAULT"
+      },
+      {
+        "from": [
+          "ASLT - WITH OR W/O WEAPONS (NO SHOOTINGS)",
+          "ASLT - IP/JO - DV"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ASSAULT"
+      },
+      {
+        "from": [
+          "--NARCOTICS - OTHER",
+          "--NARCOTICS - DRUG TRAFFIC LOITERING"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NARCOTICS"
+      },
+      {
+        "from": [
+          "--BURGLARY - NON RESIDENTIAL/COMMERCIAL",
+          "--BURGLARY - UNOCC STRUC ON RESN PROP"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "BURGLARY"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ARSON, BOMBS, EXPLO",
+          "ARSON BOMB"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ARSON, BOMBS, EXPLO"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "FIGHT - IP - PHYSICAL (NO WEAPONS)",
+          "FIGHT - JO - PHYSICAL (NO WEAPONS)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ASSAULT"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--ASSAULTS - FIREARM INVOLVED"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ASSAULT"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--ASSAULTS - HARASSMENT, THREATS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ASSAULT"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--ASSAULTS - GANG RELATED"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ASSAULT"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--ASSAULTS - TELEPHONE, WRITING"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ASSAULT"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--ASSAULTS, OTHER"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ASSAULT"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--CHILD - CHILD ENDANGERMENT"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DOMESTIC"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--TRAFFIC - PEDESTRIAN VIOLATION"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "TRAFFIC"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--TRAFFIC - COMMUNITY TRAFFIC COMPLAINT (CTC)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "TRAFFIC"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--TRAFFIC - PARKING VIOL (EXCEPT ABANDONED CAR)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "TRAFFIC"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--TRAFFIC - D.U.I."
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "TRAFFIC"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--THEFT - BICYCLE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "THEFT"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--THEFT - CAR PROWL"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "THEFT"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--TRAFFIC - REFUSE TO STOP (PURSUIT)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "TRAFFIC"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--TRAFFIC - SCHOOL ZONE ENFORCEMENT"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "TRAFFIC"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--TRAFFIC - TRAFFIC CONTROL (SPECIAL EVENTS)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "TRAFFIC"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/text-transform",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Priority",
+    "expression": "value.toNumber()",
+    "onError": "keep-original",
+    "repeat": false,
+    "repeatCount": 10,
+    "description": "Text transform on cells in column Priority using expression value.toNumber()"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Event Clearance Description",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "(NOT CURRENTLY USED) ALARM NO RESPONSE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Non_issue"
+      }
+    ],
+    "description": "Mass edit cells in column Event Clearance Description"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Event Clearance Description",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "-"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Non_issue"
+      }
+    ],
+    "description": "Mass edit cells in column Event Clearance Description"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Event Clearance Description",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ASSISTANCE RENDERED"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Assistance"
+      }
+    ],
+    "description": "Mass edit cells in column Event Clearance Description"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Event Clearance Description",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "CITATION ISSUED (CRIMINAL OR NON-CRIMINAL)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Citation"
+      }
+    ],
+    "description": "Mass edit cells in column Event Clearance Description"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Event Clearance Description",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Citations � Criminal Citation Issued (new incident number required)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Citation"
+      }
+    ],
+    "description": "Mass edit cells in column Event Clearance Description"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Event Clearance Description",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "DUPLICATED OR CANCELLED BY RADIO"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Non_issue"
+      }
+    ],
+    "description": "Mass edit cells in column Event Clearance Description"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Event Clearance Description",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Evidence Submitted (new incident number required)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Non_issue"
+      }
+    ],
+    "description": "Mass edit cells in column Event Clearance Description"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Event Clearance Description",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "EXTRA UNIT"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Non_issue"
+      }
+    ],
+    "description": "Mass edit cells in column Event Clearance Description"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Event Clearance Description",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "FALSE COMPLAINT/UNFOUNDED"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "No_action_needed"
+      }
+    ],
+    "description": "Mass edit cells in column Event Clearance Description"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Event Clearance Description",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "FOLLOW-UP REPORT MADE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Non_issue"
+      }
+    ],
+    "description": "Mass edit cells in column Event Clearance Description"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Event Clearance Description",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "INCIDENT LOCATED, PUBLIC ORDER RESTORED"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Disturbance"
+      }
+    ],
+    "description": "Mass edit cells in column Event Clearance Description"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Event Clearance Description",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NO POLICE ACTION POSSIBLE OR NECESSARY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "No_action_needed"
+      }
+    ],
+    "description": "Mass edit cells in column Event Clearance Description"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Event Clearance Description",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NO SUCH ADDRESS OR LOCATION"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Non_action_needed"
+      }
+    ],
+    "description": "Mass edit cells in column Event Clearance Description"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Event Clearance Description",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "NON-CRIMINAL REFERRAL"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Disturbance"
+      }
+    ],
+    "description": "Mass edit cells in column Event Clearance Description"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Event Clearance Description",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ORAL WARNING GIVEN"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Disturbance"
+      }
+    ],
+    "description": "Mass edit cells in column Event Clearance Description"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Event Clearance Description",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "OTHER REPORT MADE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Other_report_made"
+      }
+    ],
+    "description": "Mass edit cells in column Event Clearance Description"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Event Clearance Description",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "PHYSICAL ARREST MADE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Arrest"
+      }
+    ],
+    "description": "Mass edit cells in column Event Clearance Description"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Event Clearance Description",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "PROBLEM SOLVING PROJECT"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Assistance"
+      }
+    ],
+    "description": "Mass edit cells in column Event Clearance Description"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Event Clearance Description",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "RADIO BROADCAST AND CLEAR"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Non_issue"
+      }
+    ],
+    "description": "Mass edit cells in column Event Clearance Description"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Event Clearance Description",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "REPORT WRITTEN (NO ARREST)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Other_report_made"
+      }
+    ],
+    "description": "Mass edit cells in column Event Clearance Description"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Event Clearance Description",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "RESPONDING UNIT(S) CANCELLED BY RADIO"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Non_issue"
+      }
+    ],
+    "description": "Mass edit cells in column Event Clearance Description"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Event Clearance Description",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "SERVICE OF DVPA ORDER"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Assistance"
+      }
+    ],
+    "description": "Mass edit cells in column Event Clearance Description"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Event Clearance Description",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "STREET CHECK WRITTEN"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Other_report_made"
+      }
+    ],
+    "description": "Mass edit cells in column Event Clearance Description"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Event Clearance Description",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "TRANSPORTATION OR ESCORT PROVIDED"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Assistance"
+      }
+    ],
+    "description": "Mass edit cells in column Event Clearance Description"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Event Clearance Description",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "UNABLE TO LOCATE INCIDENT OR COMPLAINANT"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "No_action_needed"
+      }
+    ],
+    "description": "Mass edit cells in column Event Clearance Description"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Event Clearance Description",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "Non_action_needed"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "No_action_needed"
+      }
+    ],
+    "description": "Mass edit cells in column Event Clearance Description"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "911"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Public_initiated"
+      }
+    ],
+    "description": "Mass edit cells in column Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ALARM CALL (NOT POLICE ALARM)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Alarm"
+      }
+    ],
+    "description": "Mass edit cells in column Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "IN PERSON COMPLAINT"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Public_initiated"
+      }
+    ],
+    "description": "Mass edit cells in column Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "HISTORY CALL (RETRO)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Police_initiated"
+      }
+    ],
+    "description": "Mass edit cells in column Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "PROACTIVE (OFFICER INITIATED)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Police_initiated"
+      }
+    ],
+    "description": "Mass edit cells in column Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "POLICE (VARDA) ALARM"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Alarm"
+      }
+    ],
+    "description": "Mass edit cells in column Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ONVIEW"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Police_initiated"
+      }
+    ],
+    "description": "Mass edit cells in column Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "SCHEDULED EVENT (RECURRING)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Police_initiated"
+      }
+    ],
+    "description": "Mass edit cells in column Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "TELEPHONE OTHER, NOT 911"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Public_initiated"
+      }
+    ],
+    "description": "Mass edit cells in column Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "TEXT MESSAGE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "Public_initiated"
+      }
+    ],
+    "description": "Mass edit cells in column Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "FK ERROR"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NA"
+      }
+    ],
+    "description": "Mass edit cells in column Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--DV - ARGUMENTS, DISTURBANCE (NO ARREST)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DOMESTIC VIOLENCE"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--DV - ASSIST VICTIM BY COURT ORDER"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DOMESTIC VIOLENCE"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--DV - DOMESTIC THREATS BY PHONE OR WRITING"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DOMESTIC VIOLENCE"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--DV - ENFORCE COURT ORDER (ARREST MANDATED)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DOMESTIC VIOLENCE"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--DV - STANDBY TO ASSURE PEACE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DOMESTIC VIOLENCE"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--THEFT - ALL OTHER"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "THEFT"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--THEFT - AUTO ACCESSORIES"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "THEFT"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "THREATS - DV - NO ASSAULT"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DOMESTIC VIOLENCE"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "HARBOR - WATER EMERGENCIES",
+          "HARBOR - WATER DEBRIS, NAVIGATIONAL HAZARDS",
+          "--HARBOR - BOAT ACCIDENT",
+          "--HARBOR - BOATING UNDER THE INFLUENCE",
+          "HARBOR - WATER NON-EMERGENCIES"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "HARBOR - WATER INCIDENTS"
+      },
+      {
+        "from": [
+          "ORDER - VIOLATION OF COURT ORDER (NON DV)",
+          "ORDER - VIOLATING DV COURT ORDER",
+          "ORDER - IP - VIOLATION OF DV COURT ORDER"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DOMESTIC VIOLENCE"
+      },
+      {
+        "from": [
+          "--AUTOMOBILES - RECOVERY (THEFT)",
+          "--AUTOMOBILES - LICENSE PLATE(S) THEFT OR LOSS",
+          "--AUTOMOBILES - ABANDONED CAR"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "VEHICLE-RELATED"
+      },
+      {
+        "from": [
+          "--ASSIST PUBLIC - OTHER (NON-SPECIFIED)",
+          "--ASSIST PUBLIC - 911 HANG UP, OPEN LINE",
+          "ASSIST PUBLIC - NO WELFARE CHK OR DV ORDER SERVICE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ASSIST PUBLIC"
+      },
+      {
+        "from": [
+          "--HARBOR - VESSEL, ABANDONED",
+          "--HARBOR - VESSEL, RECOVERY (THEFT)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "VEHICLE-RELATED"
+      },
+      {
+        "from": [
+          "SFD - ASSIST ON FIRE OR MEDIC RESPONSE",
+          "SFD -ASSIST ON BLS FIRE OR MEDIC RESPONSE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ASSIST OTHER AGENCY"
+      },
+      {
+        "from": [
+          "TRU - PROPERTY DESTRUCTION/DAMAGE",
+          "TRU - PROPERTY, LOST OR MISSING"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "PROPERTY DAMAGE"
+      },
+      {
+        "from": [
+          "--WEAPON, PERSON WITH - GUN",
+          "--WEAPON,PERSON WITH - OTHER WEAPON"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ARMED PERSON"
+      },
+      {
+        "from": [
+          "--CHILD - ABANDONED, ABUSED AND NEGLECTED",
+          "CHILD - ABAND, ABUSED, MOLESTED, NEGLECTED"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "CHILD ABUSE"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--PREDICTIVE POLICING PATROL",
+          "PREDICTIVE POLICING"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "PREDICTIVE POLICING"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "RAPE - IP/JO"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "RAPE"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "THEFT - SHOPLIFT"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "THEFT"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "THEFT (DOES NOT INCLUDE SHOPLIFT OR SVCS)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "THEFT"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "TRAFFIC - ROAD RAGE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "TRAFFIC"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "TRAFFIC - ASSIST MOTORIST"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "TRAFFIC"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "TRAFFIC STOP - OFFICER INITIATED ONVIEW"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "TRAFFIC"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "WEAPN-IP/JO-GUN,DEADLY WPN (NO THRT/ASLT/DIST)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ARMED PERSON"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "TRU - THEFT"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "THEFT"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--HARBOR - ASSIST BOATER (NON EMERG)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "HARBOR - WATER INCIDENTS"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--HARBOR - MARINE FIRE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "HARBOR - WATER INCIDENTS"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--HARBOR - HARBOR CODE VIOLATION"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "HARBOR - WATER INCIDENTS"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--HOMICIDE"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "HOMICIDE"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--HARBOR - DEBRIS, NAVIGATIONAL HAZ"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "HARBOR - WATER INCIDENTS"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--PROWLER - GENERAL"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "TRESPASS"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--DRIVE BY SHOOTING - NO INJURIES"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DRIVE BY SHOOTING"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--HAZARDS - HAZARDS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "HAZARDS"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--FRAUD - FRAUD, INCLUDING BUNCO"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "FRAUD"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--MISCHIEF OR NUISANCE - GENERAL"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NUISANCE"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--ROBBERY - STRONG ARM"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ARMED ROBBERY"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--ROBBERY - ARMED"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ARMED ROBBERY"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--PERSON - RUNAWAY"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MISSING PERSON"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "--PERSON - MISSING PERSON"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MISSING PERSON"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "ANIMAL - DANGEROUS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ANIMAL COMPLAINT"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "BURG - COMM BURGLARY (INCLUDES SCHOOLS)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "COMMERCIAL BURGLARY"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "BURG - IP/JO - COMM BURG (INCLUDES SCHOOLS)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "COMMERCIAL BURGLARY"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "BURG - IP/JO - RES (INCL UNOCC STRUCTURES)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "RESIDENTIAL BURGLARY"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "BURG - RES (INCL UNOCC STRUCTURES ON PROP)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "RESIDENTIAL BURGLARY"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "DV - SERVICE OF COURT ORDER"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DOMESTIC VIOLENCE"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "FIREWORKS - NUISANCE (NO HAZARD)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "NUISANCE"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "FIGHT - WITH WEAPONS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ARMED PERSON"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "FIGHT - IP/JO - WITH WEAPONS"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "ARMED PERSON"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "FIGHT - VERBAL/ORAL (NO WEAPONS)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "DISTURBANCE"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "HAZ - IMMINENT THRT TO PHYS SAFETY (NO HAZ MAT)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "HAZARDS"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "HAZ - POTENTIAL THRT TO PHYS SAFETY (NO HAZMAT)"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "HAZARDS"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "MISSING - ADULT"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MISSING PERSON"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  },
+  {
+    "op": "core/mass-edit",
+    "engineConfig": {
+      "facets": [],
+      "mode": "row-based"
+    },
+    "columnName": "Final Call Type",
+    "expression": "value",
+    "edits": [
+      {
+        "from": [
+          "MISSING - CHILD"
+        ],
+        "fromBlank": false,
+        "fromError": false,
+        "to": "MISSING PERSON"
+      }
+    ],
+    "description": "Mass edit cells in column Final Call Type"
+  }
+]
